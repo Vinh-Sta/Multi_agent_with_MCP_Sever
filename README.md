@@ -1,8 +1,8 @@
 #  Multi-Agent A2A Project (Google ADK + MCP Server)
 
-```text
-This project implements a multi-agent travel assistant system where each agent shares access to a centralized MCP server to perform web searches via the Tavily tool. Instead of giving each agent its own search engine, this design uses a single MCP server to handle search queries, making the system more efficient and scalable. It demonstrates how centralized infrastructure (MCP) can support decentralized agents in a LangChain-based environment. 
-```
+ 
+This project implements a multi-agent travel assistant system where each agent shares access to a centralized MCP server to perform web searches via the Tavily tool. Instead of giving each agent its own search engine, this design uses a single MCP server to handle search queries, making the system more efficient and scalable. It demonstrates how centralized infrastructure (MCP) can support decentralized agents in a LangChain-based environment.  
+
 
 ##  Getting Started 
 
@@ -56,3 +56,11 @@ streamlit run travel_ui.py
 ```
 
 Each agent makes search requests via the shared MCP server, which handles communication with the Tavily API and returns results to the respective agent. 
+
+
+#### 5. Documentation
+All detailed theory, design principles, and presentation materials related to the Model Context Protocol (MCP) used in this project are compiled in the file:
+ 
+Model_Context_Protocol.pdf 
+ 
+Please refer to this document for an in-depth understanding of MCP architecture, agent coordination, and communication protocols.
