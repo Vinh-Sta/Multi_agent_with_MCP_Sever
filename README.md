@@ -64,3 +64,17 @@ All detailed theory, design principles, and presentation materials related to th
 Model_Context_Protocol.pdf 
  
 Please refer to this document for an in-depth understanding of MCP architecture, agent coordination, and communication protocols.
+
+### 6.Demo
+
+1. Input data 
+
+<img width="955" height="675" alt="image" src="https://github.com/user-attachments/assets/82372bb4-b7e3-463c-acd7-c5bad6f3b255" />
+
+2. Output
+<img width="897" height="651" alt="image" src="https://github.com/user-attachments/assets/0181975f-7808-403c-be22-05eb616beb3f" /> 
+ 
+<img width="943" height="528" alt="image" src="https://github.com/user-attachments/assets/17164de8-d5a3-499d-82c4-1747d61d62d4" /> 
+ 
+<img width="961" height="950" alt="image" src="https://github.com/user-attachments/assets/d6875294-324c-4338-a77a-13ea8f2be317" /> 
+
